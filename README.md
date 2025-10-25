@@ -49,7 +49,7 @@ To run the simulation:
 The program will load default settings (or read from `config.txt` if implemented), run the simulation across multiple threads, and output a summary to `relativistc_output.dat`.
 
 
-![Photon Trajectories around a Black Hole](RelativistC/src/metric.png)
+![Photon Trajectories around a Black Hole](RelativistC/src/image/metric.png)
 
 
 
